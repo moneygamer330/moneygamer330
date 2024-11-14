@@ -33,5 +33,5 @@ I'm Luis, an enthusiastic student of software development and a junior developer
 I'm always looking for opportunities to collaborate on projects and learn new skills. Feel free to contact me if you have any project or idea you'd like to discuss!
 
 ![GitHub followers](https://img.shields.io/github/followers/moneygamer330?style=social)
-![Profile views](https://komorebi.vercel.app/api/moneygamer330)
+![](https://komarev.com/ghpvc/?username=moneygamer330&color=blueviolet)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=moneygamer330&layout=compact&theme=dark)
