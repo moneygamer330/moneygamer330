@@ -34,4 +34,5 @@ I'm always looking for opportunities to collaborate on projects and learn new sk
 
 ![GitHub followers](https://img.shields.io/github/followers/moneygamer330?style=social)
 ![](https://komarev.com/ghpvc/?username=moneygamer330&color=blueviolet)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=moneygamer330&layout=compact&theme=dark)
